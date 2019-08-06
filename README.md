@@ -29,8 +29,7 @@ What levers do we have available to to move M?
 ### What-if Analysis 1: AIIP:
 
 Depending upon the perceived value of AIIP we can get a more or less innovative team. That’s why it’s
-there! But if people do not perceive the AIIP as having any true value for them – it’s actually harming
-our ability to innovate.
+there!
 
 All things considered equal, if AIIP starts paying out:
 
@@ -50,12 +49,6 @@ in this equity, but there are several risks in our current structure hindering t
 group, so for the time being we should assume it as 0.0%.
 
 ### What-if Analysis 2: Project Skill Fit (PSF):
-
-It’s a known fact that we have project skill fit issues. From Data Scientists doing (a lot of)
-engineering work to pure researchers asked to behave like software developers (w/o training), it’s
-been an on-going issue raised in countless leads meetings – there can be large disconnects between
-the work we need done and the people we have available to do it. It’s not even a question of if we
-have subpar project skill fit or not… we do, the question is: to what extent?
 
 All things considered equal, as our project skill fit increases:
 
@@ -96,10 +89,10 @@ one thing is clear – if this model has any basis in reality than for a team of
 than it should be.
 
 The three biggest levers available to us are:
-- AIIP - needs to payout.
+- AIIP
 - Project skill fit - needs to improve and we need KPI to measure.
 - Return on politics - needs to drop and we need proper review processes up-and-down and side-to-side.
 
-*I assumed a measurement for ROP (return on politics) and PSF (project skill fit) based on some team
-survey, with 0.50 an average measure. Intuitively, teams with a greater return on politics have
-ROP >0.50 and a lower project skill fit PSF < 0.50.
+*_I assumed a measurement for ROP (return on politics) and PSF (project skill fit) based on some team_
+_survey, with 0.50 an average measure. Intuitively, teams with a greater return on politics have_
+_ROP >0.50 and a lower project skill fit PSF < 0.50._
